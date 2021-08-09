@@ -1,1 +1,3 @@
-# automated-canban-with-review
+# Automated canban with review
+
+Testing project management with GitHub.
